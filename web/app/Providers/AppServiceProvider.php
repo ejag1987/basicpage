@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace pagWeb\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
